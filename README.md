@@ -1,7 +1,6 @@
 # SimCLR + ResNet50-ViT + Attention-MIL for csPCa Detection
 
 **CSC 8851 Deep Learning — Spring 2026**  
-Hemanth Kumar Mulluri · Shiv Brahmbhatt · Georgia State University
 
 ## Overview
 Weakly-supervised detection of clinically significant prostate cancer (csPCa)
