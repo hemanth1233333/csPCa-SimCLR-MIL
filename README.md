@@ -138,4 +138,4 @@ All dependencies are installed automatically in Cell 1 of the notebook. No manua
 
 ## Acknowledgements
 
-Dataset provided by the PI-CAI challenge organizers. This project was completed as part of CSC 8851 Deep Learning at [Your University], Spring 2026.
+Dataset provided by the PI-CAI challenge organizers. This project was completed as part of CSC 8851 Deep Learning at Georgia state , Spring 2026.
